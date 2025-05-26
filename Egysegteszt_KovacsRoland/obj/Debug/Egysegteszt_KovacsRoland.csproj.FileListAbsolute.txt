@@ -1,0 +1,8 @@
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\bin\Debug\Egysegteszt_KovacsRoland.exe.config
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\bin\Debug\Egysegteszt_KovacsRoland.exe
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\bin\Debug\Egysegteszt_KovacsRoland.pdb
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\obj\Debug\Egysegteszt_KovacsRoland.csproj.AssemblyReference.cache
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\obj\Debug\Egysegteszt_KovacsRoland.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\obj\Debug\Egysegteszt_KovacsRoland.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\obj\Debug\Egysegteszt_KovacsRoland.exe
+C:\Users\tanulo\Desktop\doga xd\Egysegteszt_KovacsRoland\Egysegteszt_KovacsRoland\obj\Debug\Egysegteszt_KovacsRoland.pdb
